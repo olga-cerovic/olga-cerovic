@@ -11,6 +11,7 @@ A front end developer and UI/UX designer with a passion for creating beautiful, 
 
 * 🌍  I'm based in Oslo
 * ✉️  You can contact me at [olga.cerovic.87@gmail.com](mailto:olga.cerovic.87@gmail.com)
+* 👩 Checkout my Porfolio page: https://ornate-seahorse-96212f.netlify.app/
 
 ### Skills
 
